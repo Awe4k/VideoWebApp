@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VideoWebApp.iml" filepath="$PROJECT_DIR$/VideoWebApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modelModule/modelModule.iml" filepath="$PROJECT_DIR$/modelModule/modelModule.iml" />
+    </modules>
+  </component>
+</project>
